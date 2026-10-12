@@ -11,13 +11,15 @@ Custom Bible untuk **ProPresenter** dengan sumber data dari AYT dan FAYH.
 - **FAYH (Firman Allah yang Hidup)**  
   Data diperoleh melalui teknik scraping dari [alkitab.mobi/fayh](https://alkitab.mobi/fayh/)
 
+- **IMB (Indonesian Modern Bible)**  
+  Data diperoleh melalui teknik scraping dari [myimb.id](https://myimb.id/)
+
 ---
 
 ## 🔄 Proses Konversi
-1. Semua data dikonversi ke format **.YET**  
-   Dokumentasi: [YET Format](https://docs.google.com/document/d/1SGk70g7R3UfN1MTF5jFE9u5bNCY7J9Jeftiq5RjZA0A/edit?tab=t.0#heading=h.mm35sf89afrr)
+1. Data dikonversi ke format **.TXT**  per bible
 
-2. Dari **YET → USX → .rvbible**  
+2. Dari **TXT → USX → .rvbible**  
    Dokumentasi: [USX & .rvbible](https://github.com/martijnlentink/propresenter-custom-bibles)
 
 ---
@@ -31,7 +33,8 @@ Custom Bible untuk **ProPresenter** dengan sumber data dari AYT dan FAYH.
 ## 🙏 Terima kasih kepada:
 - [Yayasan Lembaga SABDA (YLSA)](https://alkitab.mobi/)  
 - [Martijn Lentink](https://github.com/martijnlentink)  
-- [Randy Sugianto (Yuku)](https://github.com/yukuku)  
+- [Randy Sugianto (Yuku)](https://github.com/yukuku)
+- [myIMB - Yayasan Anugerah Kebenaran](https://myimb.id/)
 
 ---
 
